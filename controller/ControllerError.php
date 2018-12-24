@@ -1,6 +1,6 @@
 <?php
 
-class ControllerMain{
+class ControllerError{
     public static function err404(){
 	
     }

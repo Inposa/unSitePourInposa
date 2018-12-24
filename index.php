@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php 
 //TODO : require_once en chemin absolu (ou relatif, je sais plus) vers File.php
-require_once '';
+require_once 'D:\WampServer\www\Perso\lib\File.php';
 ?>
 <html>
     <head>
